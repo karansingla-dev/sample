@@ -6,7 +6,6 @@ pygame.init()
 WIDTH, HEIGHT = 800, 600
 BLACK = (0, 0, 0)
 
-# comment short
 class Particle:
     def __init__(self, x, y):
         self.x = float(x)
