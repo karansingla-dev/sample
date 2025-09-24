@@ -3,7 +3,6 @@ import random
 
 pygame.init()
 
-#random comment
 WIDTH, HEIGHT = 800, 600
 BLACK = (0, 0, 0)
 
